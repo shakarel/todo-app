@@ -3,5 +3,5 @@ Welcome to my MERN todo app! this simple full-stack web application is built usi
 
 Thank you for checking out my project, and I hope you'll enjoy using it as much as I enojoyed building it!
 
-remember to use dark mode because bugs are attracted to the light,
+Remember to use dark mode because bugs are attracted to the light,
 Shahar AKA Mr. Shakes
