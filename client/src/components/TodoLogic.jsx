@@ -180,7 +180,7 @@ function TodoLogic() {
 				(todos.length !== 0 ? (
 					<div className="todos">
 						{todos.map(todo => (
-							<div className={"todo " + (todo.complete ? "is-complete" : "")}  // checking if a todo is completed so I can cascade it
+							<div key={todo._id} className={"todo " + (todo.complete ? "is-complete" : "")}  // checking if a todo is completed so I can cascade it
 
 								onClick={(event) => {
 									if (event.detail === 1) {
