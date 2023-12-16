@@ -216,7 +216,7 @@ function TodoLogic() {
 				)}
 
 
-			<div className="addPopup" onClick={() => { setPopupActive(true); setNewTodo("") }}><i className="fas fa-pen"></i></div>
+			<div className="addPopup" onClick={() => { setPopupActive(true); setNewTodo("") }}><i className="fa fa-pencil"></i></div>
 
 
 			{/* If a popup is active (client pressed add a todo), then do as below */}
